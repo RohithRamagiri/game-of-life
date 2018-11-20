@@ -499,7 +499,7 @@
     <repository>
         <id>release</id>
         <name>gameoflife-repo</name>
-        <url>http://18.191.3.114:8081/#admin/repository/repositories</url>
+        <url>http://18.191.3.114:8081/#admin/repository/repositories:gameoflife-QA</url>
             </repository>
    </distributionManagement>
 </project>
