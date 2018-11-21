@@ -499,7 +499,7 @@
     <repository>
         <id>release</id>
         <name>gameoflife-UAT</name>
-        <url>http://18.220.162.86:8081/#admin/repository/repositories:gameoflife-UAT</url>
+        <url>http://18.220.162.86:8081/repository/gameoflife-UAT/</url>
             </repository>
    </distributionManagement>
 </project>
