@@ -497,7 +497,7 @@
     </profiles>
      <distributionManagement>
     <repository>
-        <id>12345</id>
+        <id>release</id>
         <name>game-dev</name>
         <url>http://18.223.182.213:8081/repository/gameoflife_dev/</url>
             </repository>
