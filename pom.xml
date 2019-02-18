@@ -102,7 +102,7 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <version>2.5</version>
                 <configuration>
-                    <preparationGoals>install</preparationGoals>
+                    <preparationGoals>clean install</preparationGoals>
                 </configuration>
             </plugin>
 
@@ -498,7 +498,7 @@
      <distributionManagement>
     <repository>
         <id>release</id>
-        <name>gameoflife</name>
+        <name>game-dev</name>
         <url>http://3.16.41.95:8081/repository/game-dev/</url>
             </repository>
    </distributionManagement>
