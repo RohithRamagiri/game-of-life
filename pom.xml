@@ -499,7 +499,7 @@
     <repository>
         <id>123</id>
         <name>game-dev</name>
-        <url>http://3.16.41.95:8081/repository/game-dev/</url>
+        <url>http://18.223.182.213:8081/repository/gameoflife_dev/</url>
             </repository>
    </distributionManagement>
 </project>
